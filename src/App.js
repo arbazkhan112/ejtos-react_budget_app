@@ -24,6 +24,10 @@ const App = () => {
                         }        
 
                         {
+                                             //Remaining component
+                    <div className='col-sm'>
+                        <Remaining />
+                    </div>
                             /* Add Remaining component here*/
                         }        
 
